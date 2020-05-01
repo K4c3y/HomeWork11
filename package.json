@@ -1,0 +1,29 @@
+{
+  "name": "HomeWork11",
+  "version": "1.0.0",
+  "description": "Node Note Planner",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "watch": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K4c3y/HomeWork11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K4c3y/HomeWork11/issues"
+  },
+  "homepage": "https://github.com/K4c3y/HomeWork11#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1"
+  }
+}
